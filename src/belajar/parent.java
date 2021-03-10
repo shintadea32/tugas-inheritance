@@ -10,9 +10,13 @@ package belajar;
  * @author I d e a P a d
  */
 public class parent {
-     String hewan= "Kambing";
+     //membuat class induk dengan nama parent
+     
+    //mengisi objek
+    String hewan= "Kambing";
     String jeniskelamin="Jantan";
     
+    //membuat method jenis kelamin
     void jeniskelamin(){
         System.out.println("");
 }
