@@ -15,8 +15,9 @@ public class hasil {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-         child objek=new child();
+        // membuat objek class child
+        child objek=new child();
+        //memanggil method cetak
         objek.Cetak();
     }
     
